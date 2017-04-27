@@ -11,4 +11,4 @@
 ## Limitaion
 Because we choose the product based recommend system, It's very hard to validation. However we try to contact more than 100 sommelier for validation, luckily we can contact famous Sommelier.
 
-If you see the summary.ipyb
+If you see the summary.ipynb, you can see the all of our project flow & code.
